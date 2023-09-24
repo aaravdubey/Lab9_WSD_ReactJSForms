@@ -1,0 +1,142 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publication_year": 1960,
+    "rating": 4.27
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publication_year": 1949,
+    "rating": 4.17
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "publication_year": 1925,
+    "rating": 3.92
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "publication_year": 1813,
+    "rating": 4.26
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "publication_year": 1997,
+    "rating": 4.49
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "publication_year": 1851,
+    "rating": 3.52
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publication_year": 1937,
+    "rating": 4.27
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "publication_year": 1869,
+    "rating": 4.12
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publication_year": 1954,
+    "rating": 4.51
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publication_year": 1951,
+    "rating": 3.80
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "publication_year": 1932,
+    "rating": 4.09
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "publication_year": 1977,
+    "rating": 4.20
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publication_year": 1951,
+    "rating": 3.80
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publication_year": 1960,
+    "rating": 4.27
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Classics",
+    "publication_year": 1939,
+    "rating": 4.06
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publication_year": 1951,
+    "rating": 3.80
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "Science Fiction",
+    "publication_year": 1979,
+    "rating": 4.22
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "publication_year": 1950,
+    "rating": 4.10
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic Horror",
+    "publication_year": 1818,
+    "rating": 3.78
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publication_year": 1951,
+    "rating": 3.80
+  }
+]
